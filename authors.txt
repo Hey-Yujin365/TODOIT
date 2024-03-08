@@ -1,0 +1,6 @@
+gwak-uj = gwak <gwak-uj@mycompany.com>
+hong-wp = hong <hong-wp@mycompany.com>
+kim-dy = kim <kim-dy@mycompany.com>
+nam-hj = nam <nam-hj@mycompany.com>
+song-js = song <song-js@mycompany.com>
+you-bn = you <you-bn@mycompany.com>
